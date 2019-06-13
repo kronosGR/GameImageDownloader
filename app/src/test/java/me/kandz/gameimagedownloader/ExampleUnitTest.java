@@ -1,4 +1,4 @@
-package org.coursera.sustainableapps.gameimagedownloader;
+package me.kandz.gameimagedownloader;
 
 import org.junit.Test;
 

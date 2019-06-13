@@ -1,4 +1,4 @@
-package org.coursera.sustainableapps.gameimagedownloader;
+package me.kandz.gameimagedownloader;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
